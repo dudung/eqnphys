@@ -1,2 +1,2 @@
-# eqnx
-equation of x
+# eqnphys
+some equations in physics
