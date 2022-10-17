@@ -11,11 +11,7 @@
     fill: #eee;
   }
   svg {
-    background: #fafafa;
-  }
-  @media (prefers-color-scheme: dark) {
-      path { fill: white; }
-      svg {background: black; }
+    //background: #fafafa;
   }
 </style>
 
