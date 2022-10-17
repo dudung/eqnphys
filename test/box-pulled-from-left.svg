@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+  width="200" height="100"
+  viewBox="0, 0, 200, 100"
+>
+
+<style>
+  .free-diagram-box {
+    stroke: black;
+    stroke-width: 1px;
+    fill: #eee;
+  }
+  svg {
+    background: #fafafa;
+  }
+</style>
+
+<rect class="free-diagram-box" x="110" y="10" width="80" height="80" />
+
+<defs>
+  <marker id='head' orient="auto"
+    markerWidth='4' markerHeight='4'
+    refX='0.1' refY='2'>
+    <path d='M 0 0 V 4 L 4 2 Z' fill="black" />
+  </marker>
+</defs>
+
+<path
+  id='arrow-line'
+  marker-end='url(#head)'
+  stroke-width='4'
+  fill='none' stroke='black'  
+  d='M 110 50 L 70 50'
+/>
+
+<text x="10" y="55">$F_1$</text>
+<text x="135" y="55">$m$</text>
+
+</svg>
