@@ -13,6 +13,10 @@
   svg {
     background: #fafafa;
   }
+  @media (prefers-color-scheme: dark) {
+      path { fill: white; }
+      svg {background: black; }
+  }
 </style>
 
 <defs>
