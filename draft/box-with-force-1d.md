@@ -1,5 +1,5 @@
-# box-with-force
-a box with a force applied to it
+# box-with-force-1d
+a box with a 1d force applied to it
 
 Figure | Equation
 :-: | :-:
