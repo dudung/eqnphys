@@ -11,8 +11,9 @@
     fill: #eee;
   }
   svg {
-    background: #fafafa;
+    //background: #fafafa;
   }
+  path { fill:white }
 </style>
 
 <rect class="free-diagram-box" x="110" y="10" width="80" height="80" />

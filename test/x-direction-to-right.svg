@@ -10,9 +10,7 @@
     stroke-width: 1px;
     fill: #eee;
   }
-  svg {
-    //background: #fafafa;
-  }
+  svg { fill=currentColor }
 </style>
 
 <defs>
