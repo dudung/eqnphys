@@ -1,4 +1,4 @@
-# box-with-force-1d
+# force-1
 a box with a 1d force applied to it
 
 Figure | Equation
