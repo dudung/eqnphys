@@ -6,5 +6,5 @@ some equations in physics
 To clone this repository to your local folder
 
 ```batch
-$ git clone https://github.com/dudung/eqnphys eqnphys
+$ git clone https://github.com/dudung/eqnphys
 ```
