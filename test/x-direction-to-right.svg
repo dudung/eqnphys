@@ -5,10 +5,14 @@
 >
 
 <style>
-  .free-diagram-box {
-    stroke: black;
-    stroke-width: 1px;
-    fill: #eee;
+  @media (prefers-color-scheme: light) { :root { --color: #000; } }
+  @media (prefers-color-scheme: dark) { :root { --color: #fff; } }
+  path {
+    fill: var(--color);
+    stroke: var(--color);
+  }
+  text {
+    fill: var(--color);
   }
 </style>
 
