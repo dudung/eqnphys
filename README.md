@@ -1,0 +1,2 @@
+# eqnx
+equation of x
