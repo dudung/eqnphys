@@ -41,3 +41,7 @@ $
 $
 {\rm ET} = f_6(\ , \ , \ , \ , \ )
 $
+
+
+## refs
++ Robert Finch, "3S Framework", International Nuclear Threat Reduction, Sandia National Laboratories, 1 Oct 2012, p 4, url <https://www.osti.gov/biblio/1104765> [20221018].
